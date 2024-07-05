@@ -1,4 +1,9 @@
- #include<iostream>
+// For Loop
+// for(initilization; condition; update)
+//  code to be execute
+
+
+#include<iostream>
  using namespace std;
  
 
@@ -26,26 +31,26 @@
 // }
 
 // looping with breke
-  for(int i=1; i<=10; i = i+1 ){
-    cout << i << " ";
+  // for(int i=1; i<=10; i = i+1 ){
+  //   cout << i << " ";
 
-    if( i == 5){
-      break;
-    }
-   cout << "Iteration: " << i << endl;
+  //   if( i == 5){
+  //     break;
+  //   }
+  //  cout << "Iteration: " << i << endl;
   
-  }
+  // }
 
  // looping with continue
-  for(int i=1; i<=10; i = i+1 ){
+  for(int i=1; i<=5; i = i+1 ){
     cout << i << " ";
 
     if( i == 5){
       continue;
     }
-    cout << "Iteration: " << i << endl;
+ 
   }
-
+// interview break and continue 
 
   return 0;
  }
