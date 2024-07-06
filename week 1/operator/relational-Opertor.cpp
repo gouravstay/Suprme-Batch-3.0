@@ -1,7 +1,7 @@
 // Relational Operator
 #include<iostream>
 using namespace std;
-// relational Operator
+// relational Operator: ja pe mujhe comparison or condition create karna ho
 // >
 // <
 // <=
