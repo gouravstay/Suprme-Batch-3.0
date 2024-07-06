@@ -6,12 +6,13 @@ using namespace std;
 
 // | : if you give me one 1  then you got 1 
 //   : if you give all zero then you got 0
-// ~
+// ~ (tilda) : yeh uske sare bit ko flip kar dega
 // <<
 // >>
 // ^ (xor)
 int main(){
 
+cout <<
 
  return 0;
 }
