@@ -11,14 +11,25 @@ int main(){
 // cout << endl;
 
 
-int i=1;
-do
-{
-    //logic
-    cout << i << " ";
-    i = i + 1;
-} while ( i<=5);
- cout << endl;
+// int i=1;
+// do
+// {
+//     //logic
+//     cout << i << " ";
+//     // updation
+//     i = i + 1;
+// } while ( i<=5);
+//  cout << endl;
+
+int count = 22;
+
+int  i = 1;
+do {
+  cout << "Gaurav" << " ";
+  i = i+1;
+} while (i <= count);
+
+cout << endl;
 
  return 0;
 }
