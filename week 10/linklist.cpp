@@ -1,6 +1,9 @@
 #include<iostream>
 using namespace std;
-
+// Insertion
+// insertAtHead
+//insertAtTail
+//insertAtPosition
 
 class Node{
 public:
