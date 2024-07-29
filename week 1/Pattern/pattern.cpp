@@ -18,6 +18,7 @@ int main(){
 //     cout << endl;
 // }
 
+
 // Numaric Half Pyramid
 
 //outer loop

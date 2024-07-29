@@ -2,45 +2,30 @@
 using namespace std;
 
 
+
+
+
 int main(){
+
+
+
+    
 //Inverted Numaric Half Pyramid
-int n;
-cout << "enter the value of N: ";
-cin >> n;
+//col + 1(must be)
+//n - row (while inverted)
+// int n;
+// cout << "enter the value of N: ";
+// cin >> n;
 
-// outer loop
-for (int row=0; row<n; row++)
-{
-    for (int col = 0; col<n-row; col++)
-    {
-        cout << (col + 1) << "  ";
-    }
-    cout << endl;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// // outer loop
+// for (int row=0; row<n; row++)
+// {
+//     for (int col = 0; col<n-row; col++)
+//     {
+//         cout << (col + 1) << "  ";
+//     }
+//     cout << endl;
+// }
 
 
 
@@ -145,7 +130,7 @@ for (int row=0; row<n; row++)
 
 
 
-// Sqare
+// Hollow Square
 //col < n
 // int n;
 // cout << "Enter the Square value: ";
