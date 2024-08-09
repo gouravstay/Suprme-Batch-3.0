@@ -5,12 +5,10 @@ using namespace std;
 int main(){
 
 
-
-
 //creation
 stack<int> st;
 
-// insertion 
+//insertion 
 st.push(10);
 st.push(20);
 st.push(30);
@@ -33,7 +31,7 @@ if(st.empty()){
 cout << st.top() << endl;
 
 //peak
-
+cout << st.top() << endl;
 
 
 return 0;
